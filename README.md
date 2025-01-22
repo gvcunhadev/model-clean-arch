@@ -1,2 +1,7 @@
 # model-clean-arch
-This repository showcases my studies in Clean Architecture, where I apply and deepen my knowledge of this design principle.
+
+🔨 Project Objectives
+
+Apply the principles of Clean Architecture;
+Implement a project with separation of concerns and domain isolation;
+Understand entities, value objects, use cases, repositories, and controllers within the context of Clean Architecture.
